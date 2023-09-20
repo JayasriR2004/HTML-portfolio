@@ -1,2 +1,2 @@
-# HTML-portfolio
-This is my portfolio created exclusively using HTML. No style sheets used.
+# HTML-Birthday invite
+This is my birthday invitation created exclusively using HTML. 
